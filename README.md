@@ -6,12 +6,6 @@
 # SE-Assignment-6
 
  Assignment: Introduction to Python
-
-Instructions:
-
-# SE-Assignment-6
-
- Assignment: Introduction to Python
 Instructions:
 
  Questions:
@@ -283,39 +277,6 @@ print(result)
 **with open("work.txt", "w") as file:**
 
  **file.writelines(line + "\n" for line in lines)**
-
-# Submission Guidelines:
-
-
-- What is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.
-
-2. Installing Python:
-
-   - Describe the steps to install Python on your operating system (Windows, macOS, or Linux). Include how to verify the installation and set up a virtual environment.
-3. Python Syntax and Semantics:
-
-   - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
-4. Data Types and Variables:
-
-   - List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.
-5. Control Structures:
-
-   - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
-6. Functions in Python:
-
-   - What are functions in Python, and why are they useful? Write a Python function that takes two arguments and returns their sum. Include an example of how to call this function.
-7. Lists and Dictionaries:
-
-   - Describe the differences between lists and dictionaries in Python. Write a script that creates a list of numbers and a dictionary with some key-value pairs, then demonstrates basic operations on both.
-8. Exception Handling:
-
-   - What is exception handling in Python? Provide an example of how to use `try`, `except`, and `finally` blocks to handle errors in a Python script.
-9. Modules and Packages:
-
-   - Explain the concepts of modules and packages in Python. How can you import and use a module in your script? Provide an example using the `math` module.
-10. File I/O:
-
-    - How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.
 
 # Submission Guidelines:
 
